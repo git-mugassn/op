@@ -1,0 +1,4 @@
+18789 https://wdc-default-op.mugassn.dpdns.org
+
+# Serveo SSH Key Fingerprint:
+# SHA256:K2mqXtwwNFAKtzJ5vpQSmbGd/U2GGYPrr8ldi9m+T+g

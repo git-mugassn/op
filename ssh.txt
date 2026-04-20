@@ -1,0 +1,2 @@
+ssh -J host.mugassn.dpdns.org root@wdc-op
+password: ML3zH9WDPk5wY79L
